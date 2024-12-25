@@ -157,4 +157,4 @@ This setup creates a sleek lock screen with a blur effect, clock, and customized
 
 By following these steps, you can achieve a fully customized and visually appealing Arch Linux setup. Whether it's GRUB, SDDM, Waybar, Wlogout, or Swaylock, every detail contributes to a modern and functional desktop experience.
 
-Happy customizing! 🎨🚀
+Happy customizing! 
